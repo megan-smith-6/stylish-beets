@@ -44,3 +44,8 @@ main p:first-of-type {
   text-align: center;
   font-size: 1.125rem;
 }
+
+main p:nth-child(3){
+  text-align: left;
+  font-size: 0.8rem;
+}

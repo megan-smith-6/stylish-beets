@@ -13,7 +13,7 @@ h1 {
   font-size: 1.5rem;
 }
 
-header ol a {
+a {
   font-family: "PT Sans", sans-serif;
   font-weight: normal;
   color: #8f2440;
@@ -21,8 +21,9 @@ header ol a {
   text-decoration: none;
 }
 
-header a:hover {
+a:hover {
   color: #3f1622;
+  text-decoration: none;
 }
 
 header ol {
@@ -36,7 +37,7 @@ img {
 figcaption {
   font-style: italic;
   text-align: center;
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 main p:first-of-type {
@@ -45,7 +46,7 @@ main p:first-of-type {
   font-size: 1.125rem;
 }
 
-main p:nth-child(3){
+main p:nth-child(3) {
   text-align: left;
-  font-size: 0.8rem;
+  font-size: .8rem;
 }

@@ -9,3 +9,7 @@ h1 {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
 }
+
+header ol li {
+  font-family: 'PT Sans', sans-serif;
+}

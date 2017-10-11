@@ -41,7 +41,7 @@ figcaption {
 
 main p:first-of-type {
   font-weight: bold;
-  text-align: center;
+  text-align: left;
   font-size: 1.125rem;
 }
 

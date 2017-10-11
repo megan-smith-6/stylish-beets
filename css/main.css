@@ -20,8 +20,8 @@ header ol a {
   text-decoration: none;
 }
 
-header ol a:hover {
-  color: #b42885;
+header a:hover {
+  color: #3f1622;
 }
 
 header ol {

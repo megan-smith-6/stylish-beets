@@ -1,6 +1,5 @@
 html {
   background-color: #c9b5ab;
-  font-family: "PT Sans", sans-serif;
   font-family: "PT Serif", serif;
   line-height: 1.5;
   color: #222;
@@ -53,11 +52,19 @@ main p:nth-child(3) {
 
 .fact {
   text-align: left;
-  font-size: 1.125rem;
+  font-size: .8rem;
 }
 
 blockquote {
+  font-family: "PT Serif", serif;
   font-size: 1.5rem;
+  text-align: left;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.chris {
+  font-size: .8rem;
 }
 
 main ol li {
@@ -72,5 +79,8 @@ main h2 {
 }
 
 aside h2 {
-
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.5rem;
+  color: #3f1622;
+  font-weight: bold;
 }

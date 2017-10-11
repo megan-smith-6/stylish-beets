@@ -12,6 +12,14 @@ h1 {
   font-size: 1.5rem;
 }
 
+.beta {
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  color: #3f1622;
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
 a {
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
@@ -36,7 +44,7 @@ img {
 figcaption {
   font-style: italic;
   text-align: center;
-  font-size: .8rem;
+  font-size: .92rem;
 }
 
 main p:first-of-type {
@@ -61,6 +69,7 @@ blockquote {
   text-align: left;
   font-style: italic;
   font-weight: normal;
+  text-decoration: none;
 }
 
 .chris {

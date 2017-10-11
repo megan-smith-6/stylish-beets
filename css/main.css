@@ -1,7 +1,7 @@
 html {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
-  line-height: 1.5;
+  line-height: 1.580;
   color: #222;
 }
 
@@ -45,12 +45,14 @@ figcaption {
   font-style: italic;
   text-align: center;
   font-size: .92rem;
+  font-family: "PT Serif", serif;
 }
 
 main p:first-of-type {
   font-weight: bold;
   text-align: left;
   font-size: 1.125rem;
+  font-family: "PT Serif", serif;
 }
 
 main p:nth-child(3) {

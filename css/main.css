@@ -15,7 +15,7 @@ h1 {
 
 a {
   font-family: "PT Sans", sans-serif;
-  font-weight: normal;
+  font-weight: bold;
   color: #8f2440;
   font-size: 1.125rem;
   text-decoration: none;
@@ -62,4 +62,12 @@ blockquote {
 
 main ol li {
   list-style-type: lower-greek;
+}
+
+main h2 {
+  font-family: "PT Sans", sans-serif;
+  font-weight: normal;
+  font-size: 1.5rem;
+  color: #3f1622;
+  font-weight: bold;
 }

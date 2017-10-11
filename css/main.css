@@ -50,3 +50,7 @@ main p:nth-child(3) {
   text-align: left;
   font-size: .8rem;
 }
+
+main ol li {
+  list-style-type: lower-greek;
+}

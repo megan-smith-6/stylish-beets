@@ -9,12 +9,14 @@ h1 {
   font-family: 'PT Sans', sans-serif;
   font-weight: normal;
   color: #3f1622;
+  font-size: 1.5rem;
 }
 
 header ol li {
   font-family: 'PT Sans', sans-serif;
   font-weight: normal;
   color: #8f2440;
+  font-size: 1.125rem;
   text-decoration: none;
   list-style-type: none;
 }

@@ -3,6 +3,7 @@ html {
   font-family: "PT Sans", sans-serif;
   font-family: "PT Serif", serif;
   line-height: 1.5;
+  color: #222;
 }
 
 h1 {
@@ -36,4 +37,10 @@ figcaption {
   font-style: italic;
   text-align: center;
   font-size: 0.8rem;
+}
+
+main p:first-of-type {
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.125rem;
 }

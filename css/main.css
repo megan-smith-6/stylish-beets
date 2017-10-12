@@ -51,7 +51,7 @@ figcaption {
 main p:first-of-type {
   font-weight: bold;
   text-align: left;
-  font-size: 1.125rem;
+  font-size: 1.1rem;
   font-family: "PT Serif", serif;
 }
 
@@ -101,25 +101,33 @@ dl dt:nth-child(1){
 }
 
 dl dt:nth-of-type(2) {
-  font-family: "PT Sans", sans-serif;
+  font-family: "PT Serif", serif;
   color: #3f1622;
   font-weight: bold;
 }
 
 dl dt:nth-of-type(3) {
-  font-family: "PT Sans", sans-serif;
+  font-family: "PT Serif", serif;
   color: #3f1622;
   font-weight: bold;
 }
 
 dl dt:nth-of-type(4) {
-  font-family: "PT Sans", sans-serif;
+  font-family: "PT Serif", serif;
   color: #3f1622;
   font-weight: bold;
 }
 
 dl dt:nth-of-type(5) {
-  font-family: "PT Sans", sans-serif;
+  font-family: "PT Serif", serif;
   color: #3f1622;
   font-weight: bold;
+}
+
+aside ul li {
+  list-style-type: circle;
+}
+
+footer a {
+  font-size: .92rem;
 }

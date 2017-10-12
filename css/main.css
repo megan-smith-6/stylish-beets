@@ -96,10 +96,30 @@ aside h2 {
   font-weight: bold;
 }
 
-dl .serving {
+dl dt:nth-child(1){
   font-style: italic;
 }
 
-h2 dt {
+dl dt:nth-of-type(2) {
+  font-family: "PT Sans", sans-serif;
+  color: #3f1622;
+  font-weight: bold;
+}
 
+dl dt:nth-of-type(3) {
+  font-family: "PT Sans", sans-serif;
+  color: #3f1622;
+  font-weight: bold;
+}
+
+dl dt:nth-of-type(4) {
+  font-family: "PT Sans", sans-serif;
+  color: #3f1622;
+  font-weight: bold;
+}
+
+dl dt:nth-of-type(5) {
+  font-family: "PT Sans", sans-serif;
+  color: #3f1622;
+  font-weight: bold;
 }

@@ -1,7 +1,7 @@
 html {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
-  line-height: 1.580;
+  line-height: 1.58;
   color: #222;
 }
 
@@ -57,12 +57,12 @@ main p:first-of-type {
 
 main p:nth-child(3) {
   text-align: left;
-  font-size: .8rem;
+  font-size: .92rem;
 }
 
 .fact {
   text-align: left;
-  font-size: .8rem;
+  font-size: .92rem;
 }
 
 blockquote {
@@ -94,4 +94,12 @@ aside h2 {
   font-size: 1.5rem;
   color: #3f1622;
   font-weight: bold;
+}
+
+dl .serving {
+  font-style: italic;
+}
+
+h2 dt {
+
 }

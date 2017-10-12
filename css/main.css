@@ -96,7 +96,7 @@ aside h2 {
   font-weight: bold;
 }
 
-dl dt:nth-child(1){
+dl dt:nth-child(1) {
   font-style: italic;
 }
 
